@@ -1,0 +1,20 @@
+{
+  "name": "students_app",
+  "version": "1.0.0",
+  "description": "- An online students registry system that allows users to add, delete, update and view students records.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuliadev95/students-record.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giuliadev95/students-record/issues"
+  },
+  "homepage": "https://github.com/giuliadev95/students-record#readme"
+}
